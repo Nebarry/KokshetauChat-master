@@ -52,7 +52,7 @@
 
 Экран восстановления доступа к аккаунту
 
-<img src="https://github.com/zholdassk/KokshetauChat/blob/master/DocData/reset-screen.png" width="200px"/>
+<img src="https://github.com/zholdassk/KokshetauChat-master/blob/master/DocData/reset-screen.png" width="200px"/>
 
 Экран профиля
 
