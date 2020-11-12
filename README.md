@@ -1,5 +1,5 @@
 <p align="center"> 
-<img src="https://github.com/zholdassk/KokshetauChat/blob/master/DocData/Logo.png" width="300px">
+<img src="https://github.com/zholdassk/KokshetauChat-master/blob/master/DocData/Logo.png" width="300px">
 </p>
 
 # Кокшетау Чат
