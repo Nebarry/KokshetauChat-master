@@ -56,7 +56,7 @@
 
 Экран профиля
 
-<img src="https://github.com/zholdassk/KokshetauChat/blob/master/DocData/profile-screen.png" width="200px"/>
+<img src="https://github.com/zholdassk/KokshetauChat-master/blob/master/DocData/profile-screen.png" width="200px"/>
 
 Экран переписки
 
