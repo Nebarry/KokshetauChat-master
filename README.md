@@ -11,7 +11,7 @@
 
 # Скачать
 
-Вы можете попробовать Кокшетау Чат прямо сейчас на вашем телефоне ([click to download the APK](https://github.com/zholdassk/KokshetauChat/blob/master/DocData/kokshetauchat-1.0.apk?raw=true))
+Вы можете попробовать Кокшетау Чат прямо сейчас на вашем телефоне ([click to download the APK](https://github.com/zholdassk/KokshetauChat-master/blob/master/DocData/kokshetauchat-1.0.apk?raw=true))
 
 # Характеристики
 1. Войти, выйти и зарегистрироваться
