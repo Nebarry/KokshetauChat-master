@@ -48,7 +48,7 @@
 
 Экран регистрации
 
-<img src="https://github.com/zholdassk/KokshetauChat/blob/master/DocData/signup-screen.png" width="200px"/>
+<img src="https://github.com/zholdassk/KokshetauChat-master/blob/master/DocData/signup-screen.png" width="200px"/>
 
 Экран восстановления доступа к аккаунту
 
