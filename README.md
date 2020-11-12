@@ -40,7 +40,7 @@
 
 Начальный экран
 
-<img src="https://github.com/zholdassk/KokshetauChat/blob/master/DocData/splash-screen.png" width="200px"/>
+<img src="https://github.com/zholdassk/KokshetauChat-master/blob/master/DocData/splash-screen.png" width="200px"/>
 
 Экран входа
 
