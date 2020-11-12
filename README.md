@@ -60,4 +60,4 @@
 
 Экран переписки
 
-<img src="https://github.com/zholdassk/KokshetauChat/blob/master/DocData/chat1-screen.png" width="200px"/>
+<img src="https://github.com/zholdassk/KokshetauChat-master/blob/master/DocData/chat1-screen.png" width="200px"/>
